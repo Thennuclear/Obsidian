@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "251008 for Collins.md",
+                "file": "251010 for Freeman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "251008 for Collins"
+              "title": "251010 for Freeman"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "251010 for Freeman"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3fc7d24b9b33826",
+  "active": "616d9bd77017f935",
   "lastOpenFiles": [
     "251008 for Collins.md",
     "251010 for Freeman.md",
